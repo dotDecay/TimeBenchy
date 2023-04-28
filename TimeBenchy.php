@@ -111,6 +111,7 @@ class TimeBenchy
     position:fixed;
     left:10px;
     bottom:10px;
+    z-index: 999999;
     opacity:.5;
     color:rgb(220 220 220);
 }
